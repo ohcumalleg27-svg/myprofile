@@ -6,41 +6,6 @@
 
 ---
 
-## 🌟 Key Features
-
-- **3 Dynamic Themes**:
-  - 🌌 **Midnight Cloud** (Default dark developer aesthetic)
-  - ☀️ **Executive Light** (Clean high-contrast corporate presentation)
-  - 🌲 **Emerald Ops** (Terminal operations vibe)
-  - State persisted seamlessly with `localStorage`
-- **Interactive macOS DevOps Terminal**:
-  - Live tab switcher: `infra_main.tf` (Terraform HCL), `profile.json` (Structured JSON resume), `deploy.sh` (CI/CD pipeline)
-  - Real-time syntax highlighting and status indicators
-- **4 Career Experience Roles**:
-  - 14-year progression from Tier-2/3 Support to Senior Systems Admin and Lead Cloud & DevOps Engineer
-  - Interactive accordion toggling with "Expand All / Collapse All"
-- **Interactive Skills Matrix**:
-  - Real-time live search filter
-  - Category filter pills (Cloud, IaC & Automation, Linux & Systems, Containers & K8s, Databases & Storage, Security & Networking)
-- **Certifications Vault (14 Credentials)**:
-  - Red Hat Certified Engineer (RHCE) & RHCSA
-  - Red Hat Certified Specialist in Ansible Automation
-  - HashiCorp Certified: Terraform Associate & Vault Associate
-  - Oracle Certified Professional (OCP) & Associate (OCA)
-  - AWS Solutions Architect Associate, CKA, VMware VCP-DCV, Cisco CCNA, ITIL v4, CompTIA
-  - Live search and vendor filter pills
-- **Employer ATS PDF Export Modal**:
-  - Section-by-section customization (Summary, Experience, Skills, Certifications, Credentials, References)
-  - One-click PDF generation via `html2pdf.js`
-  - Clean `@media print` fallback for browser printing
-- **Pure Native Web Technologies**:
-  - Zero heavy framework overhead (No React/Vue/Node build step required)
-  - Instant load time (< 0.5s)
-  - Mobile-responsive (Fluid typography, collapsible navigation)
-  - SEO & ATS optimized with OpenGraph, Twitter Cards, and Schema.org JSON-LD
-
----
-
 ## 🚀 How to Publish to the Web (100% Free)
 
 You can publish this portfolio to the web in less than 2 minutes using any of the free hosting platforms below:
