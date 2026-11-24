@@ -3,7 +3,6 @@
 > **High-Performance Interactive Web Portfolio & ATS-Compliant PDF Resume**  
 > Architected for Senior Cloud & DevOps roles with 14+ years of enterprise IT experience.
 
-![Portfolio Preview Banner](photo.jpg)
 
 ---
 
