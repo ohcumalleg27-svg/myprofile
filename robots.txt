@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://romargellamucho.github.io/sitemap.xml
