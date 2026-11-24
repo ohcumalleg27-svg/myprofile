@@ -48,21 +48,9 @@ You can publish this portfolio to the web in less than 2 minutes using any of th
 
 ### Option 1: GitHub Pages (Recommended)
 
-1. Create a new repository on [GitHub](https://github.com/new) named `myporfolio` (or `<your-username>.github.io`).
-2. In your terminal inside this folder, run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Launch Romar Gellamucho Portfolio"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/myporfolio.git
-   git push -u origin main
-   ```
-3. Go to your GitHub repository **Settings** → **Pages**:
-   - Under **Build and deployment** → **Source**, select **GitHub Actions** (the automated workflow in `.github/workflows/deploy.yml` will handle the rest).
-   - Or select **Deploy from a branch** → choose `main` / `root` and click **Save**.
-4. Your website will be live at:  
-   `https://<your-username>.github.io/myporfolio/`
+1. Repository on [GitHub](https://github.com/ohcumalleg27-svg/rgellamucho_profile): `rgellamucho_profile`
+2. Remote URL: `https://github.com/ohcumalleg27-svg/rgellamucho_profile.git`
+3. Live Pages URL: `https://ohcumalleg27-svg.github.io/rgellamucho_profile/`
 
 ---
 
